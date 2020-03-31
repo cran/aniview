@@ -1,0 +1,13 @@
+5b935a72d69406a0c96bde43413d29d6 *DESCRIPTION
+1ab01a854c7d24fc4118e71fa14171ac *LICENSE
+768835bae001d845541b067caf7b8b43 *NAMESPACE
+c637fcfedf75e23e5a4b2e410988c305 *R/aniview.R
+452de9d797401a41dc4456f3a3a9ce03 *R/use_aniview.R
+303fd6e7b53a491a1e698e2f31debd3b *README.md
+bc1a6a99c43f5ccc97d2d350bde13f74 *inst/animate.css-3.7.2/animate.min.css
+84c33b67b186c64779cf54eacc0ce270 *inst/jquery-aniview-1.0.2/jquery.aniview.js
+a8f9e827e3bc6281379bf292fba1f296 *man/aniview.Rd
+7eda413afa2714157467d11bee786a09 *man/figures/empty_white.png
+6ac84627f7fa249458875147b09feb86 *man/figures/logo.png
+d18d5ce72296fe594c50b96bbf524bea *man/figures/logo_large.png
+77372a49246647461b25bf3a0e698f20 *man/use_aniview.Rd
